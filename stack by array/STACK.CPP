@@ -1,6 +1,6 @@
 /*
 	Developer Name:Hrishi jadhav
-	Subject	:Queue using array
+	Subject	:Stack using array
 */
 #include<iostream.h>
 #include<conio.h>
