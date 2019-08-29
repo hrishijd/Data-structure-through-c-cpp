@@ -1,3 +1,7 @@
+/*
+	Developer Name:Hrishi jadhav
+	Subject	:Queue using array
+*/
 #include<iostream.h>
 #include<conio.h>
 const size=10;
