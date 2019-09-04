@@ -1,3 +1,7 @@
+/*
+	Developer Name:Hrishi jadhav
+	Subject       :Linked list.
+*/
 #include<iostream.h>
 #include<conio.h>
 struct Node{
